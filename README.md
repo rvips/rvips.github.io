@@ -4,7 +4,7 @@
 
 Further to be filled later as told.
 
-![Under construction!](http://pngimg.com/d/under_construction_PNG37.png)
+![Under construction!](http://pngimg.com/d/under_construction_PNG37.png =501x420)
 
 # More:
 
@@ -14,4 +14,4 @@ Further to be filled later as told.
 
 ## [About this website](about.md)
 
-A website by Rudraksh Verma
+A website by Rudraksh Verma.
